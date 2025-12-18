@@ -1,21 +1,16 @@
 # RISC-V Computer Organization Labs
 
+
 > [!WARNING]
 > **Academic Integrity Notice (SCUT)**
->
-> This repository contains **personal laboratory work** for the course **Computer Organization and Architecture** at SCUT.
->
-> ⚠️ **This repository is publicly available for educational reference only.**
->
-> - The experiments in this repository are **individually completed** by the author.
-> - **Directly copying, reusing, or submitting any part of this repository as course assignment work
->   constitutes plagiarism**, which is a **serious violation of SCUT academic integrity regulations**.
-> - Students taking the same or similar courses **must complete all laboratory work independently**.
->
 > 
 > 🚫 **Do NOT submit this code (or any modified version of it) as your own coursework.**
-> - The author is currently **actively enrolled in this course**, and this repository is made public **solely as the source-code reference attached to the author's own assignment submission**.
-> - The author **does not authorize** any form of academic reuse for graded coursework.
+>- This repository contains **personal laboratory work** for the course Computer Organization and Architecture at SCUT.
+>- The author is currently **actively enrolled in this course**, and this repository is made public solely as the source-code reference attached to the author's own assignment submission.
+>- The author **does not authorize** any form of academic reuse for graded coursework.
+>- Directly copying, reusing, or submitting any part of this repository as course assignment work constitutes plagiarism, which is a **serious violation of SCUT academic integrity regulations**.
+>- Students taking the same or similar courses must complete all laboratory work independently.
+
 
 ---
 
@@ -53,23 +48,3 @@
 - Identifying pipeline hazards and implementing micro-architectural optimizations (e.g., Data Forwarding).
 
 ---
-
-
-## Usage Policy
-
-✔ Allowed:
-- Reading the code for **learning and understanding**
-- Referencing architecture-level ideas and implementation patterns
-
-✘ Not Allowed:
-- Copying code for **course assignments**
-- Submitting this repository (or parts of it) as your own work
-- Using this code for any graded academic submission
-
----
-
-## Disclaimer
-
-This repository is provided **as-is**, without any guarantee of correctness or completeness.
-The author assumes **no responsibility** for any academic misconduct resulting from
-unauthorized use of this repository.
