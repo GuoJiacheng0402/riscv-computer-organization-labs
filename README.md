@@ -12,11 +12,10 @@
 >   constitutes plagiarism**, which is a **serious violation of SCUT academic integrity regulations**.
 > - Students taking the same or similar courses **must complete all laboratory work independently**.
 >
+> 
 > 🚫 **Do NOT submit this code (or any modified version of it) as your own coursework.**
->
-> The author is currently **actively enrolled in this course**, and this repository is made public
-> **solely as the source-code reference attached to the author's own assignment submission**.
-> The author **does not authorize** any form of academic reuse for graded coursework.
+> - The author is currently **actively enrolled in this course**, and this repository is made public **solely as the source-code reference attached to the author's own assignment submission**.
+> - The author **does not authorize** any form of academic reuse for graded coursework.
 
 ---
 
