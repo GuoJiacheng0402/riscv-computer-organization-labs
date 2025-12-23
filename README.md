@@ -1,15 +1,9 @@
 # RISC-V Computer Organization Labs
 
 
-> [!WARNING]
+> [!CAUTION]
 > **Academic Integrity Notice (SCUT)**
-> 
-> 🚫 **Do NOT submit this code (or any modified version of it) as your own coursework.**
->- This repository contains **personal laboratory work** for the course Computer Organization and Architecture at SCUT.
->- The author is currently **actively enrolled in this course**, and this repository is made public solely as the source-code reference attached to the author's own assignment submission.
->- The author **does not authorize** any form of academic reuse for graded coursework.
->- Directly copying, reusing, or submitting any part of this repository as course assignment work constitutes plagiarism, which is a **serious violation of SCUT academic integrity regulations**.
->- Students taking the same or similar courses must complete all laboratory work independently.
+> <br>This repository contains my personal lab work for SCUT *Computer Organization*. The author is currently **actively enrolled in this course**. Do not copy, reuse, or submit any part of this repo (including modified versions) for graded coursework. Violations may be treated as plagiarism under SCUT rules. See [LICENSE](./LICENSE) for restrictions.
 
 
 ---
