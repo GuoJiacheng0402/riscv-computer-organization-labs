@@ -1,19 +1,75 @@
+Academic Integrity & Personal Use License v1.1
 Copyright (c) 2025 Jiacheng Guo
 All rights reserved.
 
-Permission is hereby granted to any person who obtains a copy of this repository to view it and run it for personal, non-graded learning purposes only.
+This is a custom license intended to (1) support personal learning and (2) protect academic integrity.
+By accessing, copying, or using any part of this repository (the “Repository”), you agree to the terms below.
 
-You may NOT:
-1) Submit this repository, or any modified version of it, as your own work for any graded assignment, laboratory, project, examination, or academic credit.
-2) Copy, reproduce, redistribute, publish, or share substantial portions of this code (publicly or privately), including posting to other repositories, forums, course groups, or solution collections, without the copyright holder’s prior written permission.
+1. Definitions
+1.1 “Code” means all source code, scripts, build files, test files, and any other technical content in this Repository.
+1.2 “Graded Work” means any coursework, assignment, lab, project, quiz, exam, take-home assessment, or any submission
+    that is evaluated for academic credit or ranking (including pass/fail, bonus points, or partial credit).
+1.3 “Substantial Portions” means any of the following:
+    (a) any complete file; or
+    (b) any complete solution to a lab/task; or
+    (c) any excerpt(s) that, alone or combined, implement the core functionality required to complete a Graded Work; or
+    (d) any amount that would reasonably enable another person to complete or significantly accelerate a Graded Work.
+1.4 “AI-Assisted Derivative” means any output produced by an AI tool or service that is generated from, based on,
+    or materially influenced by this Code (including paraphrasing, refactoring, translation, or reformatting).
 
-You MAY:
-1) Reference small excerpts for discussion or citation, provided you give clear attribution to the original repository and author.
-2) Create private notes or private modifications strictly for your own learning, as long as you do not share them and do not submit them for academic credit.
+2. Permission Grant (Allowed Use)
+Subject to full compliance with this License, the copyright holder grants you a limited, non-exclusive,
+non-transferable, revocable permission to:
+2.1 View, clone, and run the Code for personal, non-graded learning and study purposes.
+2.2 Make private copies and private modifications for your own learning, provided you do not share them and do not submit
+    them as Graded Work.
 
-Attribution:
-If you are permitted to quote excerpts, you must include attribution in the form: “Source: GuoJiacheng0402/riscv-computer-organization-labs (GitHub).”
 
-Disclaimer:
-THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
-FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+3. Prohibited Uses (Not Allowed)
+You may NOT, under any circumstances:
+3.1 Submit this Repository, or any modified version of it, as your own work for any Graded Work.
+3.2 Use this Repository as a solution template for Graded Work, including reproducing its structure, logic, or key
+    implementation patterns in a way that materially overlaps with the original solution.
+3.3 Provide, share, publish, or redistribute Substantial Portions of the Code, publicly or privately, including but not
+    limited to posting to other repositories, forums, chat groups, course groups, “solution collections”, file-sharing
+    services, or similar channels, without prior written permission from the copyright holder.
+3.4 Use this Code (in whole or in part) as input to any AI tool/service to generate an AI-Assisted Derivative intended
+    for Graded Work submission, or to help another person produce or disguise a Graded Work submission.
+3.5 Remove or alter copyright notices or this License text.
+
+Notes on forks:
+- If you fork or mirror this Repository, you must comply with all restrictions above.
+- Where the hosting platform allows, keep forks private. A public fork that effectively redistributes Substantial Portions
+  violates this License.
+
+4. Limited Quotation & Attribution (Allowed with Conditions)
+You MAY quote small excerpts for discussion, review, or citation, provided that:
+4.1 The excerpt is not a Substantial Portion; and
+4.2 You give clear attribution exactly as follows:
+    “Source: GuoJiacheng0402/riscv-computer-organization-labs (GitHub).”
+4.3 You do not present the excerpt in a way that constitutes a complete or near-complete solution to Graded Work.
+
+5. Requests for Additional Permission
+If you want to use the Code beyond what is allowed here,
+you must obtain prior written permission from the copyright holder.
+
+6. Termination
+6.1 Any violation of this License automatically terminates all permissions granted herein, effective immediately.
+6.2 Upon termination, you must promptly stop using the Code and delete all copies and derivatives in your possession or
+    control, except where retention is required by law.
+6.3 Sections 1, 3, 6, 7, and 8 survive termination.
+
+7. Academic Integrity & Remedies
+7.1 The copyright holder reserves the right to pursue appropriate remedies for violations of this License.
+7.2 In cases of suspected academic misconduct, the copyright holder may report relevant evidence to course staff,
+    academic integrity offices, or the appropriate institution authority.
+
+8. Disclaimer of Warranty & Limitation of Liability
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. Contact
+Copyright holder: Jiacheng Guo
