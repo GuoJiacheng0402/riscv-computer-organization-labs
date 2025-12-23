@@ -1,0 +1,19 @@
+Copyright (c) 2025 Jiacheng Guo
+All rights reserved.
+
+Permission is hereby granted to any person who obtains a copy of this repository to view it and run it for personal, non-graded learning purposes only.
+
+You may NOT:
+1) Submit this repository, or any modified version of it, as your own work for any graded assignment, laboratory, project, examination, or academic credit.
+2) Copy, reproduce, redistribute, publish, or share substantial portions of this code (publicly or privately), including posting to other repositories, forums, course groups, or solution collections, without the copyright holder’s prior written permission.
+
+You MAY:
+1) Reference small excerpts for discussion or citation, provided you give clear attribution to the original repository and author.
+2) Create private notes or private modifications strictly for your own learning, as long as you do not share them and do not submit them for academic credit.
+
+Attribution:
+If you are permitted to quote excerpts, you must include attribution in the form: “Source: GuoJiacheng0402/riscv-computer-organization-labs (GitHub).”
+
+Disclaimer:
+THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
