@@ -1,11 +1,16 @@
 # RISC-V Computer Organization Labs
 
-
 > [!CAUTION]
 > **Academic Integrity Notice (SCUT)**
-> <br>This repository contains my personal lab work for SCUT *Computer Organization*. The author is currently **actively enrolled in this course**. Do not copy, reuse, or submit any part of this repo (including modified versions) for graded coursework. Violations may be treated as plagiarism under SCUT rules. See [LICENSE](./LICENSE) for restrictions.
-
-
+> 
+> The author is currently **actively enrolled in this course**, and this repository is made public
+> **solely as the source-code reference attached to the author's own assignment submission**.
+>  
+> Do not copy, reuse, or submit any part of this repo (including modified versions) for graded coursework.
+> Violations may constitute plagiarism under applicable SCUT academic integrity rules.
+>  
+> This notice does not grant any permission beyond what is explicitly stated in the
+> [LICENSE](./LICENSE).
 ---
 
 
