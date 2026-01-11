@@ -13,6 +13,13 @@
 > [LICENSE](./LICENSE).
 ---
 
+## Author
+
+Jiacheng Guo  
+
+2025-12
+
+---
 
 
 ## Platform & Tools
