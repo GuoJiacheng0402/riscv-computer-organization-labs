@@ -96,7 +96,7 @@ int main(void)
     // === Task3 ===
     uint32_t n = 10;
         uint32_t s = sum_to_n(n);
-        printf("sum_to_n(%u) = %u\r\n", n, s); // 预期输出 55
+        printf("sum_to_n(%u) = %u\r\n", n, s);
     // === Task3 ===
 
     srand(__get_rv_cycle()  | __get_rv_instret() | __RV_CSR_READ(CSR_MCYCLE));
