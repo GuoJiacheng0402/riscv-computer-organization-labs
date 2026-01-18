@@ -47,10 +47,9 @@ Jiacheng Guo
 - Configuring the **PLIC** (Platform-Level Interrupt Controller).
 - Handling RISC-V **M-mode Traps**, `mcause` analysis, and Context Saving.
 
-### [Lab 4: Pipeline Optimization & Benchmarking](./Lab4_Pipeline_Optimization)
+### [Lab 4: Pipeline Optimization & Benchmarking](https://github.com/GuoJiacheng0402/riscv-e203-load-use-forwarding)
 - Porting and running the **CoreMark** benchmark.
 - Performance analysis using hardware counters (`mcycle`, `minstret`).
 - Calculating **CPI** (Cycles Per Instruction) and **IPC**.
 - Identifying pipeline hazards and implementing micro-architectural optimizations (e.g., Data Forwarding).
-
 ---
