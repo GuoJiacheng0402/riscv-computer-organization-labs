@@ -13,9 +13,7 @@
 > [LICENSE](./LICENSE).
 ---
 
-## Author
-
-Jiacheng Guo  
+*Developed by **Jiacheng Guo**.*
 
 2025.12-2026.01
 
